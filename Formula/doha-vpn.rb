@@ -2,7 +2,7 @@ class DohaVpn < Formula
   desc "Doha Office VPN Update"
   homepage "https://github.com/bcg-doha/"
   url "https://github.com/bcg-doha/homebrew-vpn-config/releases/download/v1.3/doha-vpn-1.3.tar.gz"
-  sha256 "2ce0108db8906e00a2c73dc9c19ecb75d97c7187147c58b7ccbe6041d04278c6"
+  sha256 "cc63d2f55f8ae0aac3dbd137b27752dd737ab1e40f808a2cf1fc243852e66ad9"
   version "1.3"
   depends_on "python@3.12"
 
